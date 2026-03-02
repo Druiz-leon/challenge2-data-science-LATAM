@@ -116,11 +116,3 @@ Deyanira Ruiz
 ### 📄 Licencia
 
 Este proyecto se desarrolla con fines académicos y de aprendizaje.
-
-
-
-Sube el proyecto a GitHub con commits organizados.
-
-Si quieres, puedo ahora:
-
-🔥 Convertirlo en un README más impactante tipo portafolio pro
